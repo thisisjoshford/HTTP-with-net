@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1585683389798" clover="3.2.0">
-  <project timestamp="1585683389798" name="All files">
-    <metrics statements="24" coveredstatements="24" conditionals="13" coveredconditionals="10" methods="4" coveredmethods="4" elements="41" coveredelements="38" complexity="0" loc="24" ncloc="24" packages="2" files="3" classes="3"/>
+<coverage generated="1585683440345" clover="3.2.0">
+  <project timestamp="1585683440346" name="All files">
+    <metrics statements="26" coveredstatements="25" conditionals="17" coveredconditionals="13" methods="4" coveredmethods="4" elements="47" coveredelements="42" complexity="0" loc="26" ncloc="26" packages="2" files="3" classes="3"/>
     <package name="lib">
-      <metrics statements="14" coveredstatements="14" conditionals="8" coveredconditionals="8" methods="2" coveredmethods="2"/>
+      <metrics statements="16" coveredstatements="15" conditionals="12" coveredconditionals="11" methods="2" coveredmethods="2"/>
       <file name="app.js" path="/Users/joshford/alchemy/career-track/HTTP-with-net/lib/app.js">
-        <metrics statements="14" coveredstatements="14" conditionals="8" coveredconditionals="8" methods="2" coveredmethods="2"/>
+        <metrics statements="16" coveredstatements="15" conditionals="12" coveredconditionals="11" methods="2" coveredmethods="2"/>
         <line num="1" count="1" type="stmt"/>
         <line num="2" count="1" type="stmt"/>
         <line num="3" count="1" type="stmt"/>
@@ -18,8 +18,10 @@
         <line num="16" count="2" type="cond" truecount="4" falsecount="0"/>
         <line num="17" count="1" type="stmt"/>
         <line num="18" count="1" type="stmt"/>
+        <line num="23" count="1" type="cond" truecount="3" falsecount="1"/>
         <line num="24" count="1" type="stmt"/>
-        <line num="29" count="1" type="stmt"/>
+        <line num="34" count="0" type="stmt"/>
+        <line num="39" count="1" type="stmt"/>
       </file>
     </package>
     <package name="lib.utils">
