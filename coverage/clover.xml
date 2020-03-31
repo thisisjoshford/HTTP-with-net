@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1585683440345" clover="3.2.0">
-  <project timestamp="1585683440346" name="All files">
-    <metrics statements="26" coveredstatements="25" conditionals="17" coveredconditionals="13" methods="4" coveredmethods="4" elements="47" coveredelements="42" complexity="0" loc="26" ncloc="26" packages="2" files="3" classes="3"/>
+<coverage generated="1585683659771" clover="3.2.0">
+  <project timestamp="1585683659771" name="All files">
+    <metrics statements="26" coveredstatements="26" conditionals="17" coveredconditionals="14" methods="4" coveredmethods="4" elements="47" coveredelements="44" complexity="0" loc="26" ncloc="26" packages="2" files="3" classes="3"/>
     <package name="lib">
-      <metrics statements="16" coveredstatements="15" conditionals="12" coveredconditionals="11" methods="2" coveredmethods="2"/>
+      <metrics statements="16" coveredstatements="16" conditionals="12" coveredconditionals="12" methods="2" coveredmethods="2"/>
       <file name="app.js" path="/Users/joshford/alchemy/career-track/HTTP-with-net/lib/app.js">
-        <metrics statements="16" coveredstatements="15" conditionals="12" coveredconditionals="11" methods="2" coveredmethods="2"/>
+        <metrics statements="16" coveredstatements="16" conditionals="12" coveredconditionals="12" methods="2" coveredmethods="2"/>
         <line num="1" count="1" type="stmt"/>
         <line num="2" count="1" type="stmt"/>
         <line num="3" count="1" type="stmt"/>
         <line num="5" count="1" type="stmt"/>
-        <line num="6" count="3" type="stmt"/>
-        <line num="7" count="3" type="stmt"/>
-        <line num="9" count="3" type="cond" truecount="4" falsecount="0"/>
+        <line num="6" count="4" type="stmt"/>
+        <line num="7" count="4" type="stmt"/>
+        <line num="9" count="4" type="cond" truecount="4" falsecount="0"/>
         <line num="10" count="1" type="stmt"/>
         <line num="11" count="1" type="stmt"/>
-        <line num="16" count="2" type="cond" truecount="4" falsecount="0"/>
+        <line num="16" count="3" type="cond" truecount="4" falsecount="0"/>
         <line num="17" count="1" type="stmt"/>
         <line num="18" count="1" type="stmt"/>
-        <line num="23" count="1" type="cond" truecount="3" falsecount="1"/>
+        <line num="23" count="2" type="cond" truecount="4" falsecount="0"/>
         <line num="24" count="1" type="stmt"/>
-        <line num="34" count="0" type="stmt"/>
+        <line num="34" count="1" type="stmt"/>
         <line num="39" count="1" type="stmt"/>
       </file>
     </package>
@@ -29,18 +29,18 @@
       <file name="createResponse.js" path="/Users/joshford/alchemy/career-track/HTTP-with-net/lib/utils/createResponse.js">
         <metrics statements="2" coveredstatements="2" conditionals="3" coveredconditionals="0" methods="1" coveredmethods="1"/>
         <line num="1" count="2" type="cond" truecount="0" falsecount="3"/>
-        <line num="3" count="4" type="stmt"/>
+        <line num="3" count="5" type="stmt"/>
       </file>
       <file name="parseRequest.js" path="/Users/joshford/alchemy/career-track/HTTP-with-net/lib/utils/parseRequest.js">
         <metrics statements="8" coveredstatements="8" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
         <line num="1" count="2" type="stmt"/>
-        <line num="3" count="5" type="stmt"/>
-        <line num="4" count="5" type="stmt"/>
-        <line num="6" count="5" type="cond" truecount="2" falsecount="0"/>
-        <line num="7" count="4" type="stmt"/>
-        <line num="8" count="4" type="stmt"/>
-        <line num="9" count="4" type="stmt"/>
-        <line num="11" count="5" type="stmt"/>
+        <line num="3" count="6" type="stmt"/>
+        <line num="4" count="6" type="stmt"/>
+        <line num="6" count="6" type="cond" truecount="2" falsecount="0"/>
+        <line num="7" count="5" type="stmt"/>
+        <line num="8" count="5" type="stmt"/>
+        <line num="9" count="5" type="stmt"/>
+        <line num="11" count="6" type="stmt"/>
       </file>
     </package>
   </project>
