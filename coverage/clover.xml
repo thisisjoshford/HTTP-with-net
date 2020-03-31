@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1585680588048" clover="3.2.0">
-  <project timestamp="1585680588048" name="All files">
+<coverage generated="1585681174339" clover="3.2.0">
+  <project timestamp="1585681174339" name="All files">
     <metrics statements="8" coveredstatements="8" conditionals="5" coveredconditionals="2" methods="2" coveredmethods="2" elements="15" coveredelements="12" complexity="0" loc="8" ncloc="8" packages="1" files="2" classes="2"/>
     <file name="createResponse.js" path="/Users/joshford/alchemy/career-track/HTTP-with-net/lib/utils/createResponse.js">
       <metrics statements="2" coveredstatements="2" conditionals="3" coveredconditionals="0" methods="1" coveredmethods="1"/>
